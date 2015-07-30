@@ -1,2 +1,1 @@
-findBugs
-sonar
+master chinh sua
